@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: linear-gradient(to right, #4ab48a, #002545);
+    padding: 20px;
+    border-bottom: 1px solid #000;
+    
+}
+
+.header img {
+    width: 200px;
+}
